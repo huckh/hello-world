@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-first github project
+Huck's first github project
+Check out this update.
